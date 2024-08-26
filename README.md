@@ -1,4 +1,4 @@
-👋 Hi there! I'm 
+👋 Hi there! I'm
 🎓 Student at Amrit Science Campus
 💻 Currently learning: Javascript, React, MongoDB, Node
 🚀 Hackathon Enthusiast: Actively participated in 3 hackathons/projects
