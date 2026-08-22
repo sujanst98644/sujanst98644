@@ -1,62 +1,26 @@
-# Sujan Thapa
+# Hi, I'm Sujan Thapa 👋
 
-Full-Stack Developer | React • Next.js • Python • WordPress | DevOps (Learning)
+### Aspiring DevOps Engineer
 
----
+I build web applications and work with modern deployment and cloud technologies.
 
-## About Me
+🔭 Currently learning **DevOps, Cloud & Kubernetes**  
 
-I build scalable, production-ready web applications and SEO-optimized websites.
+💻 Working with **React, Next.js, Node.js, Python, GO, PHP**  
 
-Experience across frontend systems, backend APIs, CMS customization, and deployment workflows.
+🚀 Interested in **CI/CD, Docker, Git, AWS, Azure, Microservices, Infrastructure scalable systems**  
 
-Currently focusing on:
-- Advanced Next.js architecture
-- Python backend development
-- DevOps (Docker, CI/CD, production configs)
+📚 BSc CSIT Student
 
----
+### Tech
 
-## Tech Stack
+**Frontend:** React • Next.js • JavaScript • Tailwind CSS
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- Redux
+**Backend:** Node.js • Express • Python • Django • REST APIs • MongoDB • SQL • POSTGRES
 
-### Backend
-- Node.js
-- Express.js
-- Python
-- Django
-- MongoDB
-- REST APIs
+**DevOps:** Linux • Git • Docker • CI/CD • AWS • Terraform • Kubernetes
 
-### CMS & Web
-- WordPress (Custom Themes, Page Builders, Migration)
-- Technical SEO
-- Hosting & Deployment
+### Connect
 
-### Tools & Environment
-- Git
-- Linux
-- Docker
-- Figma
-
----
-
-## Experience
-
-WordPress Developer Intern — Ascend Spark  
-- Built 4+ production business websites  
-- Performance optimization & SEO setup  
-- Managed deployments and hosting configurations  
-
----
-
-## Contact
-
-Email: Sujan.st98644@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sujan-thapa-245958293/
+[LinkedIn](https://www.linkedin.com/in/sujan-thapa-245958293/) •
+[Email](mailto:Sujan.st98644@gmail.com)
